@@ -1,0 +1,73 @@
+/*mis estilos*/
+
+body {
+  background: #F78E69;
+}
+
+/*header*/
+
+header .row {
+  height: 116px;
+  text-align: -webkit-right;
+}
+
+.col-12 h1, .col-12 p {
+  padding: 6px;
+  color: #fff;
+  margin: 0 85px 0 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-align: right;
+}
+
+/*section1*/
+
+.col-12 img {
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+/*section2*/
+
+.cuadro {    /*.row .col-12 */
+  background: #ABE188;
+  margin-top: -17px;
+  height: 458px;
+}
+
+.cuadro .col-4 {
+  background: #F78E69;
+  margin: 50px 0 0 395px;
+  width: 543px;
+}
+
+.col-4 h1, .col-4 p {
+  padding: 12px;
+  color: #fff;
+  margin: 0;
+  text-align: center;
+}
+
+/*section3*/
+
+.col-2 img {
+  margin-top: -68px;
+  margin-left: 187px;
+  border: 13px solid #fff;
+  filter: grayscale(0%);
+}
+
+.images h1 {
+  text-align: center;
+  padding: 92px;
+  font-size: 48px;
+}
+
+/*footer*/
+
+.footer p {
+  color: #fff;
+  text-align: right;
+  font-family: sans-serif;
+  margin-right: 17px;
+}
